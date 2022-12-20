@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-Hello, I am Chloé, I have created a OS ([ArtOS](https://github.com/ArtOS-Developper/ArtOS "See ArtOS")) compatible with all Windows applications
-I hope you like this system
+Hello, I am Chloé, I have created a OS ([CrystalOS](https://github.com/ArtOS-Developper/ArtOS "See CrystalOS")) compatible with all Windows applications
+I hope you like this system (CrystalOS is actcualy paused due to some others (big) projects)
 
 Follow me on [Youtube](https://www.youtube.com/channel/UCuB1nUk5DnubI0z5_dTvmEw/ "youtube-link") !
 
 Follow me on [Reddit](https://www.reddit.com/user/MiniChaKal "reddit-link") !
-
-Follow me on [my website](https://cubicman.wixsite.com/the-french-cs-dev/ "myweb-link") !
 
 <h3 align="left">See my actives projects in pinned repos</h3>
 <p align="left">
