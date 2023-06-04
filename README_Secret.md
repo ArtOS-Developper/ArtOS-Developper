@@ -36,10 +36,10 @@ I also collect retro games and consoles
 
 <h2>Projects </h2>
   
-- [CrystalOS (Main Project)](https://github.com/ArtOS-Developper/CrystalOS)
+- [CrystalOS (Main Project)](https://github.com/RetroAndDev/CrystalOS)
   
 - Videos Games with Unity
   
-- [Wii U Cafe SDK Deluxe](https://github.com/ArtOS-Developper/WiiUCafeSDKDeluxe)
+- [Wii U Cafe SDK Deluxe](https://github.com/RetroAndDev/WiiUCafeSDKDeluxe)
 
 </div>
