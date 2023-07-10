@@ -24,6 +24,7 @@ I also collect retro games and consoles
         <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" />
   
 - <h4> Software & Libraries </h4>
+    <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="xcode" />
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="vs" />
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
@@ -36,10 +37,12 @@ I also collect retro games and consoles
 
 <h2>Projects </h2>
   
-- [CrystalOS (Main Project)](https://github.com/RetroAndDev/CrystalOS)
+- [SpeedrunTracker (Active Dev)](https://github.com/RetroAndDev/SpeedrunTracker)
+
+- [Wii U Cafe SDK Deluxe (Active, Try to fix bugs...)](https://github.com/RetroAndDev/WiiUCafeSDKDeluxe)
+
+- Videos Games with Unity (In progress...)
   
-- Videos Games with Unity
-  
-- [Wii U Cafe SDK Deluxe](https://github.com/RetroAndDev/WiiUCafeSDKDeluxe)
+- [CrystalOS (Paused)](https://github.com/RetroAndDev/CrystalOS)
 
 </div>
