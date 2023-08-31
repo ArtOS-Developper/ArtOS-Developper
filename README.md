@@ -36,13 +36,17 @@ I also collect retro games and consoles
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender" />
 
 <h2>Projects </h2>
-  
-- [SpeedrunTracker (Active Dev)](https://github.com/RetroAndDev/SpeedrunTracker)
 
-- [Wii U Cafe SDK Deluxe (Active, Try to fix bugs...)](https://github.com/RetroAndDev/WiiUCafeSDKDeluxe)
+- [StudySuite (In dev)](https://github.com/RetroAndDev/StudySuite)
+
+- [Wii U Cafe SDK Deluxe (Active)](https://github.com/RetroAndDev/WiiUCafeSDKDeluxe)
 
 - Videos Games with Unity (In progress...)
   
 - [CrystalOS (Paused)](https://github.com/RetroAndDev/CrystalOS)
+
+- [SpeedrunTracker (Not started)](https://github.com/RetroAndDev/SpeedrunTracker)
+
+- [AltDirecte (Discontinued)](https://github.com/RetroAndDev/AltDirecte)
 
 </div>
