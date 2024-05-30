@@ -38,10 +38,8 @@ I also collect retro games and consoles
 
 <h2>Projects </h2>
 
-- [StudySuite (In dev)](https://github.com/RetroAndDev/StudySuite)
-- Quantum Engine (Pre-Dev)
-- Project "The Mansion" (Game) (Pre-production)
+- [StudySuite](https://github.com/StudySuite) (In Development)
 - Minecraft Launcher for [Etercube Server](https://etercube.fr/) (JAVA Only)
-- [Wii U Cafe SDK Deluxe (Maintaining)](https://github.com/RetroAndDev/WiiUCafeSDKDeluxe)
+- [Wii U Cafe SDK Deluxe](https://github.com/RetroAndDev/WiiUCafeSDKDeluxe) (Maintaining)
 
 </div>
