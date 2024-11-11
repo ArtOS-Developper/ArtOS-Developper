@@ -2,12 +2,13 @@
 
 <div>
 <img align="right" width="400" src="./imgs/Profile.png" />
-
+New readme with updated projects !
 <div>
 <h2> About me </h2>
-Hi there 👋. I'm Retro&Dev. I'm a student at St Jean and I am interested in programming and game development.
-Currently making a School app named <b><a href="https://studysuite.fr">StudySuite</a></b> (only availavble in France), a story-based Portal mod named <b>Portal : Divergence</b> and <b>Phoenix Wright : Studio</b> a case maker for Phoenix Wright games. I like to touch everything to discover new things and learn new skills, like Machine Learning, Game and App Development, etc...
-I also collect retro games and consoles. I you have any requests, f eel free to send me an e-mail ! (for project-related issues, open an issue in the repository page)
+Hi there 👋.<br>I'm Retro&Dev. I'm a student at lycée St Jean and I am interested in programming and game development.<br>
+Currently making a School app named <b><a href="https://studysuite.fr">StudySuite</a></b> (only available in France), a story-based Portal mod named <b>Portal : Divergence</b> and <b>Phoenix Wright : Studio</b> a case maker for Phoenix Wright games.<br>
+I like to touch everything to discover new things and learn new skills, like Machine Learning, Game and App Development, etc...<br>
+I also collect retro games and consoles. I have any requests, feel free to e-mail me ! (for project-related issues, open an issue in the repository page)
 </div>
   
 <h2> Current skills </h2>
