@@ -6,8 +6,8 @@
 <div>
 <h2> About me </h2>
 Hi there 👋. I'm Retro&Dev. I'm a student at St Jean and I am interested in programming and game development.
-I like to touch everything for discover new things and learn new skills, like Machine Learning, Game and App Development, etc...
-I also collect retro games and consoles
+Currently making a School app named <b><a href="https://studysuite.fr">StudySuite</a></b> (only availavble in France), a story-based Portal mod named <b>Portal : Divergence</b> and <b>Phoenix Wright : Studio</b> a case maker for Phoenix Wright games. I like to touch everything to discover new things and learn new skills, like Machine Learning, Game and App Development, etc...
+I also collect retro games and consoles. I you have any requests, f eel free to send me an e-mail ! (for project-related issues, open an issue in the repository page)
 </div>
   
 <h2> Current skills </h2>
@@ -19,9 +19,10 @@ I also collect retro games and consoles
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 
     - <h5> What I'm currently learning (seriously) </h5>
+       <a href="https://developer.valvesoftware.com/wiki/Source"><img src="https://img.shields.io/static/v1?label=&message=Source+Engine&color=%23F79A10&style=for-the-badge&logo=sourceengine&logoColor=FFFFFF" alt="Source Engine"></a>
        <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />
        <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter />
-  
+
 - <h4> Software & Libraries </h4>
     <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="xcode" />
     <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crim" alt="rider" />
@@ -35,8 +36,13 @@ I also collect retro games and consoles
 
 <h2>Projects </h2>
 
-- [StudySuite](https://github.com/StudySuite) (In Development)
+- [StudySuite](https://studysuite.fr) - Main Project - Since August 2023
+  - A school software for French students to help their studies
+- Portal : Divergence - Secondary Project - Since Jully 2024
+  - A story-based game/mod in the Valve's Portal series. Modded form [Portal : Revolution]([https://portalrevolution.com](https://portalrevolution.com))
+- Phoenix Wright : Studio - Thirdly Project - Since Febuary 2023, stopped and restarted October 2024
+  - An Phoenix Wright case-maker. Created from scratch in Unity. [Announcement post on r/AceAttorney](https://www.reddit.com/r/AceAttorney/comments/10qxngx/introducing_ace_attorney_engine_studio_a_case/)
 - Minecraft Launcher for [Etercube Server](https://etercube.fr/) (JAVA Only)
-- [Wii U Cafe SDK Deluxe](https://github.com/RetroAndDev/WiiUCafeSDKDeluxe) (Maintaining)
+- [Wii U Cafe SDK Deluxe](https://github.com/RetroAndDev/WiiUCafeSDKDeluxe) (Maintaining/Searching time for V2)
 
 </div>
